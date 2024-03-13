@@ -23,7 +23,7 @@ Prompt: A shopping cart checkout feature that allows a user to check out as a gu
 1. If the cart is empty, show side bar of recent purchases.<br>
 2.  If user status is 'guest', prompt to log in || create an id || neither...continue to checkout<br>
 3.  <i><b>What behaviors of this feature does the prompt miss or gloss over?</b></i><br>
-    *Is user prompted to sign-up or login upon entering the site?
+    *Is user prompted to sign-up or login upon entering the site?<br>
     *Is there a benefit to signing up? (Publix.com offers $5 if you sign up instead of proceeding as guest)<br>
 
 
