@@ -27,7 +27,7 @@ Prompt: A shopping cart checkout feature that allows a user to check out as a gu
     *Is there a benefit to signing up? (Publix.com offers $5 if you sign up instead of proceeding as guest)<br>
 
 
-<i>I started playing with the 'markdown' language so it would look better in the Preview.  This is an example of markdown<br>which is a lightweight markup language that describes how text should appear on a page.</i>
+<i>I started playing with the 'markdown' language so it would look better in the Preview.  This is an example of markdown which is a lightweight markup language that describes how text should appear on a page.</i>
 
 
 ***Created by Bob Yohnka - 3/13/2024***
